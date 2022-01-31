@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @steven-hill
+- 👀 I’m interested in iOS, mobile gaming, sports, languages and travel.
+- 🌱 I’m currently learning iOS development, Swift, UIKit and SwiftUI so that I can change careers.
+- 💞️ I’m looking to collaborate on iOS projects.
+- 📫 You can reach me on Twitter at @H_Steven1
