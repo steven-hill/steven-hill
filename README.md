@@ -7,3 +7,10 @@
 # iOS developer 
 
 ## Contents
+
+- About me
+- Skills
+- Projects
+
+
+### About me
