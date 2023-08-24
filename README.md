@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @steven-hill
 - 👀 I’m interested in software development, mobile gaming, sports, languages and travel.
 - 🌱 I’m currently learning iOS development and Swift, and looking for my first iOS developer role.
-- 📫 You can reach me on Twitter at @H_Steven1 and on LinkedIn at www.linkedin.com/in/steven-hill-570913230
+- 📫 You can reach me on Twitter at @H_Steven1 and on [LinkedIn](www.linkedin.com/in/steven-hill-570913230).
