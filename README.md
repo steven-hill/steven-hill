@@ -31,23 +31,23 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 ### Projects
 
 - MovieList
-  - This app uses UIKit and a wholly programmatic UI.
-  - Users can search for a movie using the name of the movie. The app uses the iTunes API to surface results in a UITableView.
+  - This app uses UIKit and a wholly programmatic UI. 
+  - Users can search for a movie using the name of the movie. The app uses the iTunes API to get results and display them in a UITableView.
   - The user can tap on a result to see more information about that movie and watch the trailer via AVPlayer.
   - If the user is interested in watching the movie, they can add it to the favourites list (accessible via the tab bar).
   - I chose UserDefaults for persistence of the favourites list as the memory space requirement is small.
-  - This project really helped me to understand the protocol and delegate pattern, coordinators, and MVC.
+  - This project really helped me to get practice with the protocol and delegate pattern, coordinators, MVC, and the single responsibility principle. 
 
 
 - Weather
   - I'm currently building this app, and it's my first SwiftUI app.
   - It uses CoreLocation to get the user's location and make a network call to the Open Weather API to get the current weather data for that location.
   - It also uses WidgetKit for the home screen widget which provides glanceable information for the user.
-  - This app has allowed me to learn MVVM, and more frameworks - SwiftUI, CoreLocation and WidgetKit.
+  - This app has allowed me to learn MVVM, and more frameworks - SwiftUI, CoreLocation and WidgetKit. By practicing and picking up these frameworks I delved a lot into Apple's documentation. I started with the documentation when implementing the frameworks. As a result, I've become more confident and familiar with it. 
 
 
 - Job application tracker
-  - This app uses UIKit and mixes storyboard and programmatic UI.
+  - This app uses UIKit, and mixes storyboard and programmatic UI.
   - Users can add, view, delete and edit job applications via sheets. The dashboard view provides the user with information to track their applications at a top level.
   - I utilised UICollectionView to display the array of job applications to the user.
   - I implemented persistence with CoreData.
