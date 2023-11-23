@@ -43,7 +43,8 @@ I’m focused on writing clean, maintainable code, and helping companies build g
   - I'm currently building this app, and it's my first SwiftUI app.
   - It uses CoreLocation to get the user's location and make a network call to the Open Weather API to get the current weather data for that location.
   - It also uses WidgetKit for the home screen widget which provides glanceable information for the user.
-  - This app has allowed me to learn MVVM, and more frameworks - SwiftUI, CoreLocation and WidgetKit. By practicing and picking up these frameworks I delved a lot into Apple's documentation. I started with the documentation when implementing the frameworks. As a result, I've become more confident and familiar with it. 
+  - This app has allowed me to learn MVVM, and more frameworks - SwiftUI, CoreLocation and WidgetKit.
+  - By practicing and picking up these frameworks I delved a lot into Apple's documentation. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with it. 
 
 
 - Job application tracker
