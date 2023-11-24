@@ -30,8 +30,9 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 
 ### Projects
 
-- MovieList
- A UIKit project to search for movies using the iTunes API.
+- [MovieList](https://github.com/steven-hill/MovieList)
+
+A UIKit project to search for movies using the iTunes API.
 
 
 - Weather
