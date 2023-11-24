@@ -32,17 +32,11 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 
 - [MovieList](https://github.com/steven-hill/MovieList) - a UIKit project to search for movies using the iTunes API.
 
+- [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit project to track job applications using CoreData.
+  
 - Weather
   - I'm currently building this app, and it's my first SwiftUI app.
   - It uses CoreLocation to get the user's location and make a network call to the Open Weather API to get the current weather data for that location.
   - It also uses WidgetKit for the home screen widget which provides glanceable information for the user.
   - This app has allowed me to learn MVVM, and more frameworks - SwiftUI, CoreLocation and WidgetKit.
   - By practicing and picking up these frameworks I delved a lot into Apple's documentation. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with it. 
-
-
-- Job application tracker
-  - This app uses UIKit, and mixes storyboard and programmatic UI.
-  - Users can add, view, delete and edit job applications via sheets. The dashboard view provides the user with information to track their applications at a top level.
-  - I utilised UICollectionView to display the array of job applications to the user.
-  - I implemented persistence with CoreData.
-  - This project gave me further practice with the protocol and delegate pattern, and MVC.
