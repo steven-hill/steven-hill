@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steven-hill
 - 👀 I’m interested in software development, mobile gaming, sports, languages and travel.
 - 🌱 I’m a junior iOS developer learning iOS development and Swift, and looking for an entry level iOS developer role in APAC, EEA or North America.
-- 📫 You can reach me on [Twitter](https://twitter.com/H_Steven1) and on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
+- 📫 You can reach me on [X (Twitter)](https://twitter.com/H_Steven1) and on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
 
 
 # iOS developer 
@@ -31,12 +31,7 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 ### Projects
 
 - MovieList
-  - This app uses UIKit and a wholly programmatic UI. 
-  - Users can search for a movie using the name of the movie. The app uses the iTunes API to get results and display the data in a UITableView.
-  - The user can tap on a result to see more information about that movie and watch the trailer via AVPlayer.
-  - If the user is interested in watching the movie, they can add it to the favourites list (accessible via the tab bar).
-  - I chose UserDefaults for persistence of the favourites list as the memory space requirement is small.
-  - This project really helped me to get practice with the protocol and delegate pattern, coordinators, MVC, and the single responsibility principle. 
+ A UIKit project to search for movies using the iTunes API.
 
 
 - Weather
