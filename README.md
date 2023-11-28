@@ -5,7 +5,7 @@
 
 
 # iOS developer 
-![image showing my name and role.](https://github.com/steven-hill/steven-hill/assets/98730693/8158b35b-a756-49f7-8136-45875dd4a85b)
+![GitHub portfolio header](https://github.com/steven-hill/steven-hill/assets/98730693/1dd153f4-9372-465b-8fcc-b3cf7c3fc0e1))
 
 ## Contents
 
