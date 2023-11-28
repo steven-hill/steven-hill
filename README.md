@@ -1,11 +1,10 @@
+![GitHub portfolio header](https://github.com/steven-hill/steven-hill/assets/98730693/1dd153f4-9372-465b-8fcc-b3cf7c3fc0e1)
+
 - 👋 Hi, I’m @steven-hill
 - 👀 I’m interested in software development, mobile gaming, sports, languages and travel.
 - 🌱 I’m a junior iOS developer learning iOS development and Swift, and looking for an entry level iOS developer role.
 - 📫 You can reach me on [X (formerly Twitter)](https://twitter.com/H_Steven1) and on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
 
-
-# iOS developer 
-![GitHub portfolio header](https://github.com/steven-hill/steven-hill/assets/98730693/1dd153f4-9372-465b-8fcc-b3cf7c3fc0e1)
 
 ## Contents
 
