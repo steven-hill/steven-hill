@@ -1,4 +1,5 @@
-![GitHub portfolio header](https://github.com/steven-hill/steven-hill/assets/98730693/f22e16ae-7585-402a-9820-b78d8a0b8064)
+### Steven Hill
+## iOS developer
 
 - 👋 Hi, I’m @steven-hill
 - 👀 I’m interested in software development, mobile gaming, sports, languages and travel.
