@@ -1,4 +1,4 @@
-### Steven Hill
+# Steven Hill
 ## iOS developer
 
 - 👋 Hi, I’m @steven-hill
