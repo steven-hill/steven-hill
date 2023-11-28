@@ -1,4 +1,4 @@
-![GitHub portfolio header](https://github.com/steven-hill/steven-hill/assets/98730693/1dd153f4-9372-465b-8fcc-b3cf7c3fc0e1/1500x500)
+![GitHub portfolio header](https://github.com/steven-hill/steven-hill/assets/98730693/1dd153f4-9372-465b-8fcc-b3cf7c3fc0e1)
 
 - 👋 Hi, I’m @steven-hill
 - 👀 I’m interested in software development, mobile gaming, sports, languages and travel.
