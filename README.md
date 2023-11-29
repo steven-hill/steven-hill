@@ -35,11 +35,11 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 
 ### Projects
 
-- [MovieList](https://github.com/steven-hill/MovieList) - a UIKit project to search for movies using the iTunes API.
+- 🎬 [MovieList](https://github.com/steven-hill/MovieList) - a UIKit project to search for movies using the iTunes API.
 
-- [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit project to track job applications using CoreData.
+- 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit project to track job applications using CoreData.
   
-- Weather
+- ☀️ Weather
   - I'm currently building this app, and it's my first SwiftUI app.
   - It uses CoreLocation to get the user's location and make a network call using the Open Weather API to get the current weather data for that location.
   - It also uses WidgetKit for the home screen widget which provides glanceable information for the user.
