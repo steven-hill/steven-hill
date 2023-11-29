@@ -23,7 +23,7 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 
 ### Skills
 
-- Swift
+- <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift logo" width="50" height="50"> Swift
 - iOS
 - UIKit
 - SwiftUI
