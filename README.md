@@ -32,7 +32,7 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 
 - 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit project to track job applications using CoreData.
   
-- ☀️ Weather
+- ☀️ Weather app
   - I'm currently building this app, and it's my first SwiftUI app.
   - It uses CoreLocation to get the user's location and make network calls using the Open Weather API to get the current weather data for that location.
   - The app then displays the data on one screen. There is another screen to show an error view.
