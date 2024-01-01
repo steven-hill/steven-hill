@@ -39,5 +39,5 @@ I’m focused on writing clean, maintainable code, and helping companies build g
   - To handle different size classes I used GeometryReader, removing many hard coded values which I had initially used when building out the UI.
   - There is a floating button in the bottom right corner which the user can use to refresh the data.
   - It also uses WidgetKit for the home screen widgets (small and medium sizes are supported), which provides glanceable information for the user on their home screen.
-  - This app has allowed me to learn MVVM, and more frameworks - SwiftUI, CoreLocation and WidgetKit.
+  - This app has allowed me to learn and practice MVVM, more frameworks (SwiftUI, CoreLocation and WidgetKit), and dependency injection.
   - By practicing and picking up these frameworks I delved a lot into Apple's documentation and WWDC videos. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with Apple's documentation. 
