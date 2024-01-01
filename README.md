@@ -34,7 +34,10 @@ I’m focused on writing clean, maintainable code, and helping companies build g
   
 - ☀️ Weather
   - I'm currently building this app, and it's my first SwiftUI app.
-  - It uses CoreLocation to get the user's location and make a network call using the Open Weather API to get the current weather data for that location.
-  - It also uses WidgetKit for the home screen widget which provides glanceable information for the user.
+  - It uses CoreLocation to get the user's location and make network calls using the Open Weather API to get the current weather data for that location.
+  - The app then displays the data on one screen. There is another screen to show an error view.
+  - To handle different size classes I used GeometryReader, removing many hard coded values which I had initially used when building out the UI.
+  - There is a floating button in the bottom right corner which the user can use to refresh the data.
+  - It also uses WidgetKit for the home screen widgets (small and medium sizes are supported), which provides glanceable information for the user on their home screen.
   - This app has allowed me to learn MVVM, and more frameworks - SwiftUI, CoreLocation and WidgetKit.
-  - By practicing and picking up these frameworks I delved a lot into Apple's documentation. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with Apple's documentation. 
+  - By practicing and picking up these frameworks I delved a lot into Apple's documentation and WWDC videos. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with Apple's documentation. 
