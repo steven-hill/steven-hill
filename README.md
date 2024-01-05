@@ -34,6 +34,8 @@ I’m focused on writing clean, maintainable code, and helping companies build g
   
 - ☀️ Weather app
   - I'm currently building this app, and it's my first SwiftUI app.
+  - Written in Swift 5.9 with Xcode 15.1.
+  - The iOS deployment target is 17.0.
   - It uses CoreLocation to get the user's location and make network calls using the Open Weather API to get the current weather data for that location.
   - The app then displays the data on one screen. There is another screen to show an error view.
   - To handle different size classes I used GeometryReader, removing many hard coded values which I had initially used when building out the UI.
