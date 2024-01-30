@@ -33,7 +33,7 @@ I’m focused on writing clean, maintainable code, and helping companies build g
 - 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit project to track job applications using CoreData.
   
 - ☀️ Weather app
-  - I'm currently building this app, and it's my first SwiftUI app.
+  - This is my first SwiftUI app.
   - Written in Swift 5.9 with Xcode 15.1.
   - The iOS deployment target is 17.0.
   - It's a single view iOS app with a widget extension, supporting a small and medium sized widget.
