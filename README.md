@@ -38,7 +38,7 @@ I’m focused on writing clean, maintainable code, and helping companies build g
   - The iOS deployment target is 17.0.
   - It's a single view iOS app with a widget extension, supporting a small and medium sized widget.
   - It uses CoreLocation to get the user's location (if the user grants permission). Then it makes two network calls using the Open Weather API to get the current weather data for that location.
-  - Note: to run the app a valid Open Weather API key will need to be added to two functions in the weatherService file.
+  - Note: to run the app a valid Open Weather API key will need to be added to two functions in the WeatherService file.
   - The app then displays the data on screen or presents an alert if an error has occurred.
   - Network code uses the Result type and completion handlers.
   - To handle different size classes I used GeometryReader, removing many hard coded values which I had initially used when building out the UI.
