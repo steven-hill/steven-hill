@@ -34,4 +34,4 @@ I’m focused on writing clean, scalable and maintainable code, and helping comp
   
 - ☀️ [Weather app](https://github.com/steven-hill/Weather-app) - a SwiftUI project to get the current weather and AQI data for the user's location.
 
-- ❝...❞ Quotes - a SwiftUI project that allows users to record their thoughts on a new quote each day. Coming soon!
+- ❝...❞ [Quotes](https://github.com/steven-hill/Quotes) - a SwiftUI project that allows users to record their thoughts on a new quote each day.
