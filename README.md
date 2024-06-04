@@ -33,3 +33,5 @@ I’m focused on writing clean, scalable and maintainable code, and helping comp
 - 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit project to track job applications using CoreData.
   
 - ☀️ [Weather app](https://github.com/steven-hill/Weather-app) - a SwiftUI project to get the current weather and AQI data for the user's location.
+
+- ❝...❞ Quotes - a SwiftUI project that allows users to record their thoughts on a new quote each day. Coming soon!
