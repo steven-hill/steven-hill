@@ -24,6 +24,7 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
 - iOS
 - UIKit
 - SwiftUI
+- XCTest
 - Xcode
 - GitHub
 
