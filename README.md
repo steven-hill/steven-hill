@@ -1,6 +1,5 @@
 ![LinkedIn Banner](https://github.com/steven-hill/steven-hill/assets/98730693/b23c070a-1d24-4aa4-bbb6-59088cac9aa9)
 
-# Steven Hill
 ## iOS developer 📱👨🏼‍💻
 
 - 👋 Hi, I’m @steven-hill
