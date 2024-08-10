@@ -1,7 +1,6 @@
 ![LinkedIn Banner](https://github.com/steven-hill/steven-hill/assets/98730693/b23c070a-1d24-4aa4-bbb6-59088cac9aa9)
 
-## iOS developer 📱👨🏼‍💻
-
+## 
 - 👋 Hi, I’m @steven-hill
 - 🌱 I’m looking for an iOS developer role.
 - 📚 So far in 2024 I've read two books about testing in iOS, and I'm implementing what I've learned in my projects.
