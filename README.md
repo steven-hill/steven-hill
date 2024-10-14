@@ -27,7 +27,7 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
 - GitHub
 
 
-## Projects
+## Personal projects
 
 - 🎬 [MovieList](https://github.com/steven-hill/MovieList) - a UIKit project to search for movies using the iTunes API.
 
