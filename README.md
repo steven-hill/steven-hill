@@ -3,7 +3,7 @@
 ## 
 - 👋 Hi, I’m @steven-hill
 - 🌱 I’m looking for an iOS developer role.
-- 📚 So far in 2024 I've read two books about testing in iOS, and I'm implementing what I've learned in my projects.
+- 📚 In 2024 I read two books about testing in iOS, and I'm implementing what I've learned in my projects.
 - 📫 You can reach me on [X](https://twitter.com/H_Steven1) and on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
 
 
