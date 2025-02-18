@@ -29,12 +29,12 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
 
 ## Personal projects
 
-- 🎬 [MovieList](https://github.com/steven-hill/MovieList) - a UIKit project to search for movies using the iTunes API.
+- 🎬 [MovieList](https://github.com/steven-hill/MovieList) - a UIKit app to search for movies using the iTunes API.
 
-- 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit project to track job applications using CoreData.
+- 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit app to track job applications using CoreData.
   
-- ☀️ [Weather app](https://github.com/steven-hill/Weather-app) - a SwiftUI project to get the current weather and AQI data for the user's location.
+- ☀️ [Weather app](https://github.com/steven-hill/Weather-app) - a SwiftUI app to get the current weather and AQI data for the user's location.
 
-- ❝...❞ [Quotes](https://github.com/steven-hill/Quotes) - a SwiftUI project that allows users to record their thoughts on a new quote each day.
+- ❝...❞ [Quotes](https://github.com/steven-hill/Quotes) - a SwiftUI app that allows users to record their thoughts on a new quote each day.
 
-- 🟰 [Convert](https://github.com/steven-hill/Convert) - a SwiftUI project that can convert different units of measurement. Built with TDD.
+- 🟰 [Convert](https://github.com/steven-hill/Convert) - a SwiftUI app that can convert different units of measurement. Built with TDD.
