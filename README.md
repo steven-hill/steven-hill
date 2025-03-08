@@ -4,6 +4,7 @@
 - 👋 Hi, I’m @steven-hill
 - 🌱 I’m looking for an iOS developer role.
 - 📚 In 2024 I read two books about testing in iOS, and I'm implementing what I've learned in my projects.
+- 📖 Currently reading "Pro Swift" by Paul Hudson.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
 
 
@@ -36,6 +37,6 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
   
 - ☀️ [Weather app](https://github.com/steven-hill/Weather-app) - a SwiftUI app to get the current weather and AQI data for the user's location.
 
-- ❝...❞ [Quotes](https://github.com/steven-hill/Quotes) - a SwiftUI app that allows users to record their thoughts on a new quote each day.
+- ❝ [Quotes](https://github.com/steven-hill/Quotes) - a SwiftUI app that allows users to record their thoughts on a new quote each day.
 
 - 🟰 [Convert](https://github.com/steven-hill/Convert) - a SwiftUI app that can convert different units of measurement. Built with TDD.
