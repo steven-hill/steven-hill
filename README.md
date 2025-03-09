@@ -39,4 +39,4 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
 
 - ❝ [Quotes](https://github.com/steven-hill/Quotes) - a SwiftUI app that allows users to record their thoughts on a new quote each day.
 
-- 🟰 [Convert](https://github.com/steven-hill/Convert) - a SwiftUI app that can convert different units of measurement. Built with TDD.
+- ↔️ [Convert](https://github.com/steven-hill/Convert) - a SwiftUI app that can convert different units of measurement. Built with TDD.
