@@ -27,9 +27,9 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
 - WidgetKit
 - CoreLocation
 - AVFoundation
-- XCTest
-- Xcode
+- XCTest & XCUITest
 - TDD
+- Xcode
 - GitHub
 
 
