@@ -20,7 +20,6 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub logo" width="50" height="50"> 
 
 - Swift
-- iOS
 - UIKit
 - SwiftUI
 - CoreData
