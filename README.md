@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @steven-hill
 - 🌱 I’m looking for an iOS developer role.
 - 📚 In 2024 I read two books about unit and UI testing in iOS, and I've been implementing what I've learned in my projects.
-- 📖 Currently reading "Pro Swift" by Paul Hudson.
+- 📖 Currently reading "Pro Swift" and "Swift Testing" by Paul Hudson.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
 
 
