@@ -31,14 +31,14 @@ My first Apple device was an iPad. Learning iOS development was born out of a cu
 
 ## Personal projects
 
-- 🎬 [MovieList](https://github.com/steven-hill/MovieList) - a UIKit app to search for movies using the iTunes API.
+- 🎬 [MovieList](https://github.com/steven-hill/MovieList) - search for movies using the iTunes API.
 
-- 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - a UIKit app to track job applications using CoreData.
+- 📝 [Job application tracker](https://github.com/steven-hill/Job-application-tracker) - track job applications.
   
-- ☀️ [Weather app](https://github.com/steven-hill/Weather-app) - a SwiftUI app to get the current weather and AQI data for the user's location.
+- ☀️ [Weather app](https://github.com/steven-hill/Weather-app) - get the current weather and AQI data for the user's location.
 
-- ❝ [Quotes](https://github.com/steven-hill/Quotes) - a SwiftUI app that allows users to record their thoughts on a new quote each day.
+- ❝ [Quotes](https://github.com/steven-hill/Quotes) - record your thoughts on a new quote each day.
 
-- ↔️ [Convert](https://github.com/steven-hill/Convert) - a SwiftUI app that can convert different units of measurement. Built with TDD.
+- ↔️ [Convert](https://github.com/steven-hill/Convert) - convert different units of measurement.
 
-- 🎞️ [Faraway Frames](https://github.com/steven-hill/Faraway-Frames) - a UIKit app to explore Studio Ghibli films.
+- 🎞️ [Faraway Frames](https://github.com/steven-hill/Faraway-Frames) - explore Studio Ghibli films.
