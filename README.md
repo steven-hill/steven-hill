@@ -3,8 +3,8 @@
 ## 
 - 👋 Hi, I’m @steven-hill
 - 🌱 I’m looking for an iOS developer role.
-- 📚 Last year I read two books about unit and UI testing in iOS, and I've been implementing what I've learned in my projects.
-- 📖 To deepen my iOS knowledge this year I've read "Pro Swift" and "Swift Testing" by Paul Hudson, and "Practical Core Data" by Donny Wals.
+- 📚 To deepen my iOS knowledge I've been reading books on Swift, Apple's testing frameworks, and Core Data, and implementing what I've learned in my projects.
+- 📖 Currently I'm reading "Mastering Swift 6" by Jon Hoffman.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
 
 
