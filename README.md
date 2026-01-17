@@ -10,9 +10,7 @@
 
 ## About me
 
-I’m focused on writing clean, scalable, maintainable and testable code, and helping companies build great mobile app experiences.
-
-My first Apple device was an iPad. Learning iOS development was born out of a curiosity about how the iPad works and how it can become anything in the user’s hands. Since then, I've been building mobile app solutions with Swift, UIKit and SwiftUI. I love how software development gives us various tools to use to solve interesting problems. There are always more exciting things to learn!
+I’m focused on writing clean, scalable, maintainable and testable code, and helping companies build great mobile app experiences. I build mobile app solutions with Swift, UIKit and SwiftUI. I love how software development gives us various tools to use to solve interesting problems, and there is always more to learn!
 
 
 ## Skills
