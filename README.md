@@ -6,7 +6,7 @@
 
 ## About me
 
-I’m focused on writing clean, scalable, maintainable and testable code, and helping companies build great mobile app experiences. I build mobile app solutions with Swift, UIKit and SwiftUI. I love how software development gives us various tools to use to solve interesting problems, and there is always more to learn!
+I’m focused on writing clean, scalable, maintainable and testable code, and helping companies build great mobile app experiences. I build mobile app solutions with Swift, UIKit and SwiftUI. Passionate about accessibility, and testing.
 
 
 ## Skills
