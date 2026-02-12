@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steven-hill
+## - 👋 Hi, I’m Steven
 - 🌱 I’m looking for an iOS developer role.
 - 📚 To deepen my iOS knowledge I've been reading books on Swift, Apple's testing frameworks, and Core Data, and implementing what I've learned in my projects.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
