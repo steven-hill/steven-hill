@@ -1,26 +1,13 @@
 ## 👋 Hi, I’m Steven
 - 🌱 I’m looking for an iOS developer role.
 - 📚 To deepen my iOS knowledge I've been reading books on Swift, Apple's testing frameworks, and Core Data, and implementing what I've learned in my projects.
+- Passionate about accessibility, and testing.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/steven-hill-570913230).
 
 
 ## About me
 
-I’m focused on writing clean, scalable, maintainable and testable code, and helping companies build great mobile app experiences. I build mobile app solutions with Swift, UIKit and SwiftUI. Passionate about accessibility, and testing.
-
-
-## Skills
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub logo" width="50" height="50"> 
-
-- Swift
-- UIKit
-- SwiftUI
-- CoreData
-- XCTest & XCUITest, and Swift Testing
-- TDD
-- Xcode
-- GitHub
+I’m focused on writing clean, scalable, maintainable and testable code, and helping companies build great mobile app experiences. I build mobile app solutions with Swift, UIKit and SwiftUI.
 
 
 ## Personal projects
